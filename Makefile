@@ -1,0 +1,2 @@
+dep:
+	brew install fileicon
